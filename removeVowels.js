@@ -1,0 +1,4 @@
+//vowel remover
+function shortcut(string){
+    return string.replace(/[aeiou]/g,'')
+  }
